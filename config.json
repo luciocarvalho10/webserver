@@ -1,0 +1,14 @@
+{
+  "rootFolder": "./static",
+  "defaultIndex": "/index.html",
+  "types": {
+    "htm": "text/html",
+    "html": "text/html",
+    "css": "text/css",
+    "js": "text/javascript",
+    "jpg": "image/jpeg",
+    "jpeg": "image/jpeg",
+    "png": "image/png",
+    "json": "application/json"
+  }
+}
